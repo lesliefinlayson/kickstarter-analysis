@@ -4,7 +4,7 @@
 
 The purpose of this project is to discover by analyzing the Kicstarter data if any campaign parameters contribute to the outcome (success or failure) of the campaign.  Specifically, this analysis explores these relationaships, if any:
 
-    * Correlation between project launch date and its outcome
+    * Correlation between project (specifically Theater) launch date and its outcome
     * Correlation between project financial goal and its outcome
     
 ## Analysis and Challenges
@@ -12,8 +12,10 @@ The purpose of this project is to discover by analyzing the Kicstarter data if a
 ### Outcomes Based on Launch Date Analysis
 
 The steps to analyze the relationship between the success rate of Theater campaigns and their launch dates:
-   1.  From the Kickstarter data sheet, reate a pivot table based on "Parent Category" and "Years"
-   2.  
+   1.  From the Kickstarter data sheet, create a pivot table based on "Parent Category" and "Years"
+
+![image](https://user-images.githubusercontent.com/84471904/123309279-9358e380-d4d9-11eb-981e-e16d49dd5fbc.png)
+
 
 
 
