@@ -11,6 +11,10 @@ The purpose of this project is to discover by analyzing the Kicstarter data if a
 
 ### Outcomes Based on Launch Date Analysis
 
+The steps to analyze the relationship between the success rate of Theater campaigns and their launch dates:
+   1.  From the Kickstarter data sheet, reate a pivot table based on "Parent Category" and "Years"
+   2.  
+
 
 
 ## Results and Conclusions
