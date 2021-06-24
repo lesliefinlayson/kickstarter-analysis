@@ -38,10 +38,10 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
       
 
 
-   2.  In order to look specifically at the campaign dates and outcomes for Theater campaigns, the subcategory "Theater" had to be seperated out from the "Category and Subcategory" column.  THis was achieved by using the "convert Text to Colums Wizard".  For example:
+   2.  In order to look specifically at the campaign dates and outcomes for Theater campaigns, the subcategory "Theater" had to be seperated out from the "Category and Subcategory" column.  THis was achieved by using the "convert Text to Colums Wizard".  For example, by seperating out film%video/television to parent category film & video and subcategory televion, can now explore trends specifically on television:
 
-Category and Subcategory	Parent Category	Subcategory
-film & video/television	film & video	television
+
+
 ![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
 
 
