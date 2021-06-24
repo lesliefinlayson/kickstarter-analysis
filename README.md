@@ -33,7 +33,7 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
    1.  The dates in the initailly provided Kickstarter data were in Unix timestamps.  To convert these dates into a useable format, a new column was created and the following formula used: =(((J2/60)/60)/24)+DATE(1970,1,1).
 
 deadline	launched_at	Date Created Conversion	date ended conversion
-1437620400	1434931811	6/22/2015	7/23/2015
+
 ![image](https://user-images.githubusercontent.com/84471904/123316404-a66fb180-d4e1-11eb-8361-89033b18d533.png)
 
       
