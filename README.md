@@ -33,18 +33,17 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
    1.  The dates in the initailly provided Kickstarter data were in Unix timestamps.  To convert these dates into a useable format, a new column was created and the following formula used: =(((J2/60)/60)/24)+DATE(1970,1,1).
 
 
-![image](https://user-images.githubusercontent.com/84471904/123316404-a66fb180-d4e1-11eb-8361-89033b18d533.png)
+   ![image](https://user-images.githubusercontent.com/84471904/123316404-a66fb180-d4e1-11eb-8361-89033b18d533.png)
 
       
 
 
    2.  In order to look specifically at the campaign dates and outcomes for Theater campaigns, the subcategory "Theater" had to be seperated out from the "Category and Subcategory" column.  THis was achieved by using the "convert Text to Colums Wizard".  
    
-   For example, by seperating out film%video/television to parent category film & video and subcategory televion, can now explore trends specifically on television:
+   For example, by seperating out "film/video/television" to parent category "film & video" and subcategory "televion", can now explore trends specifically on television:
 
 
-
-![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
+   ![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
 
 
 
