@@ -60,8 +60,18 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
    
 ![image](https://user-images.githubusercontent.com/84471904/123321851-5d6f2b80-d4e8-11eb-89db-9280404bc060.png)
 
+    4.  Populate columns
+         a.  Columns B through D ;  used "countifs" 
+         b.  Colulmns E:  Sum columns B through D for each row
+         c.  Columns F throuh G: find percantages 
   
-  
+
+
+
+
+
+
+
 
 
 ## Results and Conclusions
