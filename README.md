@@ -22,6 +22,7 @@ The steps to analyze the relationship between the success rate of Theater campai
    5. Created pivot table:  
 ![image](https://user-images.githubusercontent.com/84471904/123311009-85a45d80-d4db-11eb-9c6a-a93d86b21dbd.png)
 
+   6.  Create and format line chart  
 
 ## Results and Conclusions
     
