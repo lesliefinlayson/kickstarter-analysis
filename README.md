@@ -4,3 +4,4 @@ Continue to analyze Kickstarter data to uncover trends.  Previous work showed th
     Correlation between project launch date and its outcome
     Correlation between project financial goal and its outcome
 
+![image](https://user-images.githubusercontent.com/84471904/123289803-9e097d80-d4c5-11eb-96ce-534a19a0e6a1.png)
