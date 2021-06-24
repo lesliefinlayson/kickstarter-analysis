@@ -64,9 +64,14 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
          a.  Columns B through D ;  used "countifs" 
          b.  Colulmns E:  Sum columns B through D for each row
          c.  Columns F throuh G: find percantages 
+         
+    5.  Create chart:
+         a.  Highlight columns A, F, G, H. 
+         b.  Select "insert" from Tools Ribbon and select line chart.
+         c.  Format chart
   
 
-
+![image](https://user-images.githubusercontent.com/84471904/123289803-9e097d80-d4c5-11eb-96ce-534a19a0e6a1.png)
 
 
 
@@ -79,4 +84,4 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
 
 
 
-![image](https://user-images.githubusercontent.com/84471904/123289803-9e097d80-d4c5-11eb-96ce-534a19a0e6a1.png)
+
