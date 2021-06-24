@@ -13,6 +13,7 @@ The purpose of this project is to discover by analyzing the Kicstarter data if a
 
 The steps to analyze the relationship between the success rate of Theater campaigns and their launch dates:
    1.  From the Kickstarter data sheet, create a pivot table based on "Parent Category" and "Years"
+   2.  Select outcomes for the Colums and Values fields, date created conversion for the Rows field.
 
 ![image](https://user-images.githubusercontent.com/84471904/123309279-9358e380-d4d9-11eb-981e-e16d49dd5fbc.png)
 
