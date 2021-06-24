@@ -16,12 +16,12 @@ The purpose of this project is to discover by analyzing the Kicstarter data if a
     2.  From the Kickstarter data sheet, create a pivot table based on "Parent Category" and "Years"
     3.  Select outcomes for the Columns and Values fields, date created conversion for the Rows field.
 
-         ![image](https://user-images.githubusercontent.com/84471904/123309279-9358e380-d4d9-11eb-981e-e16d49dd5fbc.png)
+  ![image](https://user-images.githubusercontent.com/84471904/123309279-9358e380-d4d9-11eb-981e-e16d49dd5fbc.png)
 
     4. Filter the column labels to show "Successful," "failed," and "canceled".  
     5. Created pivot table: 
     
-         ![image](https://user-images.githubusercontent.com/84471904/123311009-85a45d80-d4db-11eb-9c6a-a93d86b21dbd.png)
+   ![image](https://user-images.githubusercontent.com/84471904/123311009-85a45d80-d4db-11eb-9c6a-a93d86b21dbd.png)
 
    6.  Create and format line chart 
 
