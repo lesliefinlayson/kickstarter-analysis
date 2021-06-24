@@ -1,8 +1,8 @@
-# Continuing Analysis of Kickstarter Campaigns
+# Analysis of Kickstarter Campaigns
 
 ## Project Overview and Purpose
 
-Continue to analyze Kickstarter data to uncover trends.  Previous work showed that May/June are the best time to begin a fundraiser.  Also, projects with goals of $400o appear to have a better success rate.  Further analysis explores these relationaships, if any:
+The purpose of this project is to discover by analyzing the Kicstarter data if any campaign parameters contribute to the outcome (success or failure) of the campaign.  Specifically, this analysis explores these relationaships, if any:
 
     * Correlation between project launch date and its outcome
     * Correlation between project financial goal and its outcome
