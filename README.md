@@ -46,7 +46,13 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
    ![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
 
 
-  ### Outcome based on Goals
+  ### Outcomes based on Goals
+  
+  The steps to analyze the relationship between the financial goals of a campaign and its outcome (successful or failure or canceled):
+   
+    1.  Create a new worksheet for the information to be collected.  Create columns for:  goal, number successful, number failed, number cancled, total projects, percentage successful, percentage failed, percentage canceled
+  
+  
 
 
 ## Results and Conclusions
