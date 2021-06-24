@@ -51,7 +51,7 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
   The steps to analyze the relationship between the financial goals of a campaign and its outcome (successful or failure or canceled):
    
     1.  Create a new worksheet for the information to be collected.  
-    2.  Create columns for goal, number successful, number failed, number cancled, total projects, percentage successful, percentage failed, percentage canceled
+    2.  Create columns for the information that will be collected.  Number of projects/category.  Percentage of projects/categor
  
     
 ![image](https://user-images.githubusercontent.com/84471904/123321893-6bbd4780-d4e8-11eb-9c4d-825d29feaf2a.png)
