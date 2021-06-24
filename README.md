@@ -26,7 +26,7 @@ The steps to analyze the relationship between the success rate of Theater campai
 
 ![image](https://user-images.githubusercontent.com/84471904/123290734-5cc59d80-d4c6-11eb-8aff-69eb23ad4944.png)
 
-## _Challenges_
+#### _Challenges_
 
 THe raw Kickstarter data had to be manipuated in several ways for it to be useable for analysis:
 
