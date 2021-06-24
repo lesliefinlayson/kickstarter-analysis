@@ -30,7 +30,7 @@ The purpose of this project is to discover by analyzing the Kicstarter data if a
 
 #### _Challenges_
 
-THe raw Kickstarter data had to be manipuated in several ways for it to be useable for analysis:
+THe raw Kickstarter data needs to be manipuated in several ways for it to be useable for analysis:
 
    1.  The dates in the initailly provided Kickstarter data were in Unix timestamps.  To convert these dates into a useable format, a new column was created and the following formula used: =(((J2/60)/60)/24)+DATE(1970,1,1).
 
@@ -73,7 +73,11 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
 
 ![image](https://user-images.githubusercontent.com/84471904/123289803-9e097d80-d4c5-11eb-96ce-534a19a0e6a1.png)
 
+#### _Challenges_
 
+As outlined in the Analysis section, the data needed to run this analysis had to be first generated from the raw Kickstart data.
+
+A review of using "countifs" may be necessary if unfamiliar with this option.
 
 
 
