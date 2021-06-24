@@ -57,20 +57,7 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
 
     
     3.  In the "goal" column , want to analyze by dollar-amount ranges so that projects can be grouped based on their goal amount.  
-    
-    Goal
-less than 1000
-1000 to 4999
-5000 to 9999
-10000 to 14999
-15000 to 19999
-20000 to 24999
-25000 to 29999
-30000 to 34999
-35000 to 39999
-40000 to 44999
-45000 to 49999
-Greater than 50000
+   
 ![image](https://user-images.githubusercontent.com/84471904/123321851-5d6f2b80-d4e8-11eb-89db-9280404bc060.png)
 
   
