@@ -9,6 +9,10 @@ The purpose of this project is to discover by analyzing the Kicstarter data if a
     
 ## Analysis and Challenges
 
+###Outcomes Based on Launch Date Analysis
+
+
+
 ## Results and Conclusions
     
 ![image](https://user-images.githubusercontent.com/84471904/123290734-5cc59d80-d4c6-11eb-8aff-69eb23ad4944.png)
