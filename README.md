@@ -30,10 +30,11 @@ The steps to analyze the relationship between the success rate of Theater campai
 
 THe raw Kickstarter data had to be manipuated in several ways for it to be useable for analysis:
 
-   1.  The dates in the initailly provided Kickstarter data were in 
+   1.  The dates in the initailly provided Kickstarter data were in Unix timestamps.  To convert these dates into a useable format, a new column was created and the following formula used: =(((J2/60)/60)/24)+DATE(1970,1,1).
+      
 
 
-   2.  In order to look specifically at the campaign dates and outcomes for Theater campaigns, the subcategory "Theater" had to be seperated out from the "Category and Subcategory" column.  
+   2.  In order to look specifically at the campaign dates and outcomes for Theater campaigns, the subcategory "Theater" had to be seperated out from the "Category and Subcategory" column.  THis was achieved by using the "convert Text to Colums Wizard".
 
 
 
