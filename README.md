@@ -52,7 +52,7 @@ THe raw Kickstarter data had to be manipuated in several ways for it to be useab
    
     1.  Create a new worksheet for the information to be collected.  
     2.  Create columns for goal, number successful, number failed, number cancled, total projects, percentage successful, percentage failed, percentage canceled
-    Goal	Number Successful	Number Failed	Number Canceled	Total Projects	Percentage Successful	Percentage Failed	Percentage Canceled
+ 
     
 ![image](https://user-images.githubusercontent.com/84471904/123321893-6bbd4780-d4e8-11eb-9c4d-825d29feaf2a.png)
 
