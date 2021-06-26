@@ -102,12 +102,14 @@ The second task of this analysis of the kickstart data was to look at the relati
 
 There is a great deal of useful information in the Kickstarter data set.  However, there is not enough data to give a complete picture.  Questions that come to mind, for example, are:
 
-•	In the Outcomes Based on Goals analysis, why is there a decline of successful projects starting at $5000 goal, with a strong drop at the range $25,000 to $30,000, and then a strong success rate at $35,000 to $40,000?  There must be more at work than just the financial goal of the campaigns.  There is not enough data to explain these trends. 
+•	In the Outcomes Based on Goals analysis, why is there a decline of successful projects starting at $5000 goal, with a strong drop at the range $25,000 to $30,000, and then a strong success rate at $35,000 to $40,000?  There must be more at work than just the financial goal of the campaigns.  There is not enough data to explain these trends.
+
 •	If there is interest in specifically the theaters/plays category, it would be useful if there is more information about the play genres – an additional category to define if a play is drama, comic, satyr, etc.  This more specific breakout is available in publishing and music, for example. 
 
 ### Possible future analysis topics
 
 •	It might be useful to look at trends by year.  There may be something at work on a large scale that is affecting campaign outcomes.  For example, the pandemic of 2019/20 would have a very strong influence on theater attendance and therefore campaign success.
+
 •	It might be useful to look at time between launch date and deadline date.  Doeso this have any impact on a campaign’s success?  
 
 
