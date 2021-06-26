@@ -44,6 +44,8 @@ THe raw Kickstarter data needs to be manipuated in several ways for it to be use
 
 
    ![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
+   
+   
 
 
   ### Outcomes based on Goals
@@ -80,10 +82,39 @@ As outlined in the Analysis section, the data needed to run this analysis had to
 A review of using "countifs" may be necessary if unfamiliar with this option.
 
 
-
-
-
 ## Results and Conclusions
+
+_Theater Outcomes Based on Launch Date_
+
+The first task of this analysis of the kickstarter data was to look at the relationship (if any) of theater campaigns and their launch dates.  After analyzing a total of 1369 Theater projects, the resulting pivot table and graph show:
+
+•	May and June have the highest number of successful theater campaigns.   These months are the optimal time to plan a theater campaign
+•	November through January have the lowest number of successful theater campaigns.  These months are the least desirable for running a theater campaign.
+
+_Theater Outcomes Based on Goals_
+
+The second task of this analysis of the kickstart data was to look at the relationship (if any) between the financial goals of a project and its outcome.  The line chart generated from the data set shows:
+
+•	Projects with goals less than $5000 had relatively high success rates and fairly low failure rates
+•	Projects over $45,000 had very high failure rates and very low success rates
+
+### Limitations of the data set
+
+There is a great deal of useful information in the Kickstarter data set.  However, there is not enough data to give a complete picture.  Questions that come to mind, for example, are:
+
+•	In the Outcomes Based on Goals analysis, why is there a decline of successful projects starting at $5000 goal, with a strong drop at the range $25,000 to $30,000, and then a strong success rate at $35,000 to $40,000?  There must be more at work than just the financial goal of the campaigns.  There is not enough data to explain these trends. 
+•	If there is interest in specifically the theaters/plays category, it would be useful if there is more information about the play genres – an additional category to define if a play is drama, comic, satyr, etc.  This more specific breakout is available in publishing and music, for example. 
+
+### Possible future analysis topics
+
+•	It might be useful to look at trends by year.  There may be something at work on a large scale that is affecting campaign outcomes.  For example, the pandemic of 2019/20 would have a very strong influence on theater attendance and therefore campaign success.
+•	It might be useful to look at time between launch date and deadline date.  Doeso this have any impact on a campaign’s success?  
+
+
+
+
+
+
     
 
 
