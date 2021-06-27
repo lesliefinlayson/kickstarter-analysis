@@ -10,7 +10,7 @@ The purpose of this project is to discover by analyzing the Kickstarter data if 
     
 ## Analysis and Challenges
 
-   ### ** Outcomes Based on Launch Date Analysis **
+   ### Outcomes Based on Launch Date Analysis
 
    The steps to analyze the relationship between the outcome of Theater campaigns and their launch dates:
    
@@ -47,6 +47,8 @@ THe raw Kickstarter data needed to be manipuated in several ways for it to be us
    ![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
    
    
+
+
 
 
   ### Outcomes based on Goals
