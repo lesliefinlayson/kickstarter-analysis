@@ -5,6 +5,7 @@
 The purpose of this project is to discover by analyzing the Kickstarter data if any campaign parameters contribute to the outcome (success or failure) of the campaigns.  Specifically, this analysis explores these relationships, if any:
 
 •	Correlation between campaign (specifical theater) launch date and its outcome
+
 •	Correlation between project funding goal and its outcome
     
 ## Analysis and Challenges
