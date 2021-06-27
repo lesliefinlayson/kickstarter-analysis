@@ -2,10 +2,10 @@
 
 ## Project Overview and Purpose
 
-The purpose of this project is to discover by analyzing the Kicstarter data if any campaign parameters contribute to the outcome (success or failure) of the campaign.  Specifically, this analysis explores these relationaships, if any:
+The purpose of this project is to discover by analyzing the Kickstarter data if any campaign parameters contribute to the outcome (success or failure) of the campaigns.  Specifically, this analysis explores these relationships, if any:
 
-    * Correlation between project (specifically Theater) launch date and its outcome
-    * Correlation between project financial goal and its outcome
+•	Correlation between campaign (specifical theater) launch date and its outcome
+•	Correlation between project funding goal and its outcome
     
 ## Analysis and Challenges
 
