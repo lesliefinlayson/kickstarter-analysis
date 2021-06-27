@@ -12,7 +12,7 @@ The purpose of this project is to discover by analyzing the Kickstarter data if 
 
    ### Outcomes Based on Launch Date Analysis
 
-   The steps to analyze the relationship between the number of Theater campaigns and their launch dates:
+   The steps to analyze the relationship between the outcome of Theater campaigns and their launch dates:
    
     1.  Add Years column to Kickstarter data sheet
     2.  From the Kickstarter data sheet, create a pivot table based on "Parent Category" and "Years"
@@ -20,7 +20,7 @@ The purpose of this project is to discover by analyzing the Kickstarter data if 
 
   ![image](https://user-images.githubusercontent.com/84471904/123309279-9358e380-d4d9-11eb-981e-e16d49dd5fbc.png)
 
-    4. Filter the column labels to show "Successful," "failed," and "canceled".  
+    4. Filter the column labels to show "successful," "failed" and "canceled".  
     5. Created pivot table: 
     
    ![image](https://user-images.githubusercontent.com/84471904/123311009-85a45d80-d4db-11eb-9c6a-a93d86b21dbd.png)
@@ -31,7 +31,7 @@ The purpose of this project is to discover by analyzing the Kickstarter data if 
 
 #### _Challenges_
 
-THe raw Kickstarter data needs to be manipuated in several ways for it to be useable for analysis:
+THe raw Kickstarter data needed to be manipuated in several ways for it to be useable for analysis:
 
    1.  The dates in the initailly provided Kickstarter data were in Unix timestamps.  To convert these dates into a useable format, a new column was created and the following formula used: =(((J2/60)/60)/24)+DATE(1970,1,1).
 
@@ -39,9 +39,9 @@ THe raw Kickstarter data needs to be manipuated in several ways for it to be use
    ![image](https://user-images.githubusercontent.com/84471904/123316404-a66fb180-d4e1-11eb-8361-89033b18d533.png)
 
      
-   2.  In order to look specifically at the campaign dates and outcomes for Theater campaigns, the subcategory "Theater" had to be seperated out from the "Category and Subcategory" column.  THis was achieved by using the "convert Text to Colums Wizard".  
+   2.  In order to look specifically at the campaign dates and outcomes for theater campaigns, the subcategory "Theater" was seperated out from the "Category and Subcategory" column.  This was achieved by using the "cCnvert Text to Columns Wizard".  
    
-   For example, by seperating out "film/video/television" to parent category "film & video" and subcategory "televion", can now explore trends specifically on television:
+   For example, by seperating out "film/video/television" to parent category "film & video" and subcategory "televion", television trends can be explored:
 
 
    ![image](https://user-images.githubusercontent.com/84471904/123316891-3e6d9b00-d4e2-11eb-8784-fbe009ca6028.png)
@@ -51,7 +51,7 @@ THe raw Kickstarter data needs to be manipuated in several ways for it to be use
 
   ### Outcomes based on Goals
   
-  The steps to analyze the relationship between the financial goals of a campaign and its outcome (successful or failure or canceled):
+  The steps to analyze the relationship between the funding goals of a campaign and its outcome (successful or failed or canceled):
    
     1.  Create a new worksheet for the information to be collected.  
     2.  Create columns for the information that will be collected. 
@@ -89,12 +89,12 @@ _Theater Outcomes Based on Launch Date_
 
 The first task of this analysis of the kickstarter data was to look at the relationship (if any) of theater campaigns and their launch dates.  After analyzing a total of 1369 Theater projects, the resulting pivot table and graph show:
 
-•	May and June have the highest number of successful theater campaigns.   These months are the optimal time to plan a theater campaign
-•	November through January have the lowest number of successful theater campaigns.  These months are the least desirable for running a theater campaign.
+•	May and June have the highest number of successful theater campaigns.   These months are the optimal time to run a theater campaign
+•	November through January have the lowest number of successful theater campaigns.  These months are the least desirable for running a theater campaign
 
 _Theater Outcomes Based on Goals_
 
-The second task of this analysis of the kickstart data was to look at the relationship (if any) between the financial goals of a project and its outcome.  The line chart generated from the data set shows:
+The second task of this analysis of the kickstart data was to look at the relationship (if any) between the funding goals of a project and its outcome.  The line chart generated from the data set shows:
 
 •	Projects with goals less than $5000 had relatively high success rates and fairly low failure rates
 •	Projects over $45,000 had very high failure rates and very low success rates
@@ -103,9 +103,9 @@ The second task of this analysis of the kickstart data was to look at the relati
 
 There is a great deal of useful information in the Kickstarter data set.  However, there is not enough data to give a complete picture.  Questions that come to mind, for example, are:
 
-•	In the Outcomes Based on Goals analysis, why is there a decline of successful projects starting at $5000 goal, with a strong drop at the range $25,000 to $30,000, and then a strong success rate at $35,000 to $40,000?  There must be more at work than just the financial goal of the campaigns.  There is not enough data to explain these trends.
+•	In the Outcomes Based on Goals analysis, why is there a decline of successful projects starting at $5000 goal, with a strong drop at the range $25,000 to $30,000, and then a strong success rate at $35,000 to $40,000?  There appears to be more at work than just the funding goals of the campaigns.  There is not enough data to explain these trends.
 
-•	If there is interest in specifically the theaters/plays category, it would be useful if there is more information about the play genres – an additional category to define if a play is drama, comedy, satyr, etc.  This more specific breakout is available in publishing and music, for example. 
+•	If there is interest in specifically the theaters/plays category, it would be useful if there is more information about the play genres – an additional category to define if a play is drama, comedy, satyr, etc.  This more specific breakout is available in publishing and music categories, for example. 
 
 •	The Country of the campaign is available.  It could be useful if this was broken down to regions or major cities within a country to get a more accurate picture of theater successes and failures.  For example, in the United Staes, a play successful in Boston may not be as successful in Oklahoma City.  
 
